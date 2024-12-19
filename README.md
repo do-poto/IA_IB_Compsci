@@ -9,4 +9,4 @@ The program itself is pretty basic especially when it comes to the GUI, however 
 -multithreading\
 -Abstract Data Structures\
 -Use of system time\
--Use of system notifications\
+-Use of system notifications
